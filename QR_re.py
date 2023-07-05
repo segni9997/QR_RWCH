@@ -1,1 +1,1 @@
-print("hello QR")
+print("hello ")
